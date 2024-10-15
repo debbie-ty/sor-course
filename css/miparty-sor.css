@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+  
+.course-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-container .logo {
+    width: 50%;
+    padding: 20px 0px;
+}
+
+.course-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+  
+#search-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+
+.week-grid {
+  display: grid;
+  gap: 20px;
+}
+
+.week-card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+.week-header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 15px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.week-content {
+  padding: 15px;
+}
+
+.week-content.level1 {
+  background-color:   #ee847d;
+}
+
+.week-content.level2 {
+  background-color: #f5ae7e;
+}
+
+.week-content.level3 {
+  background-color: #fff08a;
+}
+
+.week-content.level4 {
+  background-color: #97cda2;
+}
+
+.week-content.level5 {
+  background-color: #a1caec;
+}
+
+.week-card.hide {
+  display: none;
+}
+
+.week-data {
+  padding: 10px 15px;
+}
+
+.week-data li{
+  padding: 10px 20px;
+}
+
+.week-data span{
+  padding: 10px 20px;
+  color: #f00;
+}
