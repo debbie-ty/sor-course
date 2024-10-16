@@ -58,6 +58,14 @@ body {
 .week-content {
   padding: 15px;
 }
+.week-content .desc {
+  color:red;
+  margin-left: 30px;
+}
+
+.week-content.level0 {
+  background: linear-gradient(to right, #ee847d, #f5ae7e, #fff08a, #97cda2, #a1caec);
+}
 
 .week-content.level1 {
   background-color:   #ee847d;
