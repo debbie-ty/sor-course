@@ -190,7 +190,7 @@ const courseData = {
     {
       week: 20,
       date:"2024/8/18",
-      title: "第20堂 Comprehension 對考試和檢定的幫助",
+      title: "第20堂 Comprehension 對考試和檢定的幫助｜SoR 科普系列講座",
       level:5,
       data: {
         message:"付費解鎖"
