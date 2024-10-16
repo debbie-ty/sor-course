@@ -76,7 +76,9 @@ const courseData = {
       title: "第08堂 SoR 第五階段 Comprehension 日常輕鬆的練習｜SoR 科普系列講座",
       level:5,
       data: {
-        message:"付費解鎖"
+        url:"https://www.youtube.com/live/iMfJVCWczOg?si=jdWFu-HLHsvt5WNo",
+        feedback:"https://forms.gle/oirCw4hHGbgNGLEP9",
+        homework:"https://forms.gle/yRzWyiQ96vcfVdU79"
       }
     },
     {
@@ -85,7 +87,8 @@ const courseData = {
       title: "第09堂 SoR 第四階段 Vocabulary & Grammar 日常輕鬆的練習｜SoR 科普系列講座",
       level:4,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/qa5-kU7-knA",
+        feedback:"https://forms.gle/PyPwipxcfaRQCjfV6"
       }
     },
     {
@@ -94,7 +97,8 @@ const courseData = {
       title: "第10堂 Fluency 流暢準確：日常的輕鬆練習｜SoR 科普系列講座",
       level:3,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/VAwBzao4-Ag?feature=share",
+        feedback:"https://forms.gle/SuUD3pKKZpWWj4Tu5"
       }
     },
     {
@@ -103,7 +107,8 @@ const courseData = {
       title: "第11堂 Phonics 日常的輕鬆練習｜SoR 科普系列講座",
       level:2,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/fHSossk89io",
+        feedback:"https://forms.gle/nczjs5aeacWbDFoW6"
       }
     },
     {
@@ -112,7 +117,8 @@ const courseData = {
       title: "第12堂 PA 日常的輕鬆練習｜SoR 科普系列講座",
       level:1,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/JIAbzU7gDRs",
+        feedback:"https://forms.gle/i3W4dnD9aDWKLrRP9"
       }
     },
     {
@@ -121,7 +127,8 @@ const courseData = {
       title: "第13堂 第2次 SoR 五階段複習｜SoR 科普系列講座",
       level:0,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/uG72ljCRUkA",
+        feedback:"https://forms.gle/NSbyUmCfy63QdtPn8"
       }
     },
     {
@@ -130,7 +137,7 @@ const courseData = {
       title: "第14堂 Comprehension 進階理論｜SoR 科普系列講座",
       level:5,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/hOxEhqeRecs"
       }
     },
     {
@@ -139,7 +146,7 @@ const courseData = {
       title: "第15堂 Vocabulary 進階理論｜SoR 科普系列講座",
       level:4,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/w4D6V3-grA0"
       }
     },
     {
@@ -148,7 +155,7 @@ const courseData = {
       title: "第16堂 Fluency 進階理論｜SoR 科普系列講座",
       level:3,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/IiwBpmhv8wI"
       }
     },
     {
@@ -157,7 +164,37 @@ const courseData = {
       title: "第16.5堂 Phonics 教案分享｜SoR 科普系列講座",
       level:2,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/QSysJD6iJSk",
+        other: [
+          {
+            title:"大蒨姐姐講座PTT",
+            url:"https://drive.google.com/file/d/1I_2eupmxuqioY4ccS_O-sQ2Z_fwyC274/view?usp=sharing"
+          },
+          {
+            title:"用沒道理的字母學 phonics（letter word phonics）",
+            url:"https://youtu.be/CPwzWOzMLqQ"
+          },
+          {
+            title:"用沒道理的常用字學 phonics（sight word phonics）",
+            url:"https://youtu.be/JIXwzDFQl3E?si=GRmJl9z1t03CLSwn"
+          },
+          {
+            title:"用沒例外的假字學 phonics（non-sense word phonics） ",
+            url:"https://youtu.be/Q8wpQwLRKAw?si=XfkvkgOibHC2JE1I"
+          },
+          {
+            title:"用有例外的單字學 phonics（蕭博士 SoR 拼讀字典的 phonics）",
+            url:"https://youtu.be/g34FUOyrBUw?si=OkTPuXqi9cVNj0xc"
+          },
+          {
+            title:"用童謠（韻文）拆字學 phonics",
+            url:"https://youtu.be/R8OKYOlwzsY?si=F-sY6Cw6R-evh7tf"
+          },
+          {
+            title:"用繪本（散文）拆字學 phonics",
+            url:"https://youtu.be/cNIMQulBGyY?si=RAQab_Gj07PQYHk3"
+          }
+        ]
       }
     },
     {
@@ -166,7 +203,7 @@ const courseData = {
       title: "第17堂 Phonics 進階理論｜SoR 科普系列講座",
       level:2,
       data: {
-        message:"付費解鎖"
+        url:"https://www.youtube.com/live/QradMZRTDOo?si=mMqbxZoJ4Bj8qwRu"
       }
     },
     {
@@ -175,7 +212,7 @@ const courseData = {
       title: "第18堂 PA 進階理論｜SoR 科普系列講座",
       level:1,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/s_9ulR9oxA8?feature=share"
       }
     },
     {
@@ -184,16 +221,16 @@ const courseData = {
       title: "第19堂 SoR 第三次五階段複習｜SoR 科普系列講座",
       level:0,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/ZSTTzaj3c4Y"
       }
     },
     {
       week: 20,
       date:"2024/8/18",
-      title: "第20堂 Comprehension 對考試和檢定的幫助",
+      title: "第20堂 Comprehension 對考試和檢定的幫助｜SoR 科普系列講座",
       level:5,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/jQJqdRXteWk?feature=share"
       }
     },
     {
@@ -202,7 +239,7 @@ const courseData = {
       title: "第21堂 Vocabulary 對考試和檢定的幫助｜SoR 科普系列講座",
       level:4,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/nUFYEVJ7tgE?feature=share"
       }
     },
     {
@@ -211,7 +248,7 @@ const courseData = {
       title: "第22堂 Fluency 對考試檢定的幫助 ｜SoR 科普系列講座",
       level:3,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/3Al-U53ti1o"
       }
     },
     {
@@ -220,7 +257,7 @@ const courseData = {
       title: "第23堂 Phonics 對考試檢定的幫助 ｜SoR 科普系列講座",
       level:2,
       data: {
-        message:"付費解鎖"
+        url:"https://youtu.be/XRDwAyP0cB8"
       }
     },
     {
@@ -229,25 +266,27 @@ const courseData = {
       title: "第24堂 PA 對考試檢定的幫助｜SoR 科普系列講座",
       level:1,
       data: {
-        message:"付費解鎖"
+        url:"https://youtube.com/live/xaiYSCAOKH4?feature=share"
       }
     },
     {
       week: 25,
-      date:"2024/10/6",
+      date:"2024/10/6（歡迎分享）",
       title: "第25堂 從學測英文作文，釐清 SoR 腦科學的五階段學習｜SoR 科普系列講座",
+      desc:"邀請大家將影片分享給身邊高二棄英、高三棄英、國二棄英…資深棄英",
       level:0,
       data: {
-        message:"付費解鎖"
+        url:"https://www.youtube.com/live/63cTPeK1D0Y?si=qKc5voM_ZwM0AkCR",
       }
     },
     {
       week: 26,
       date:"2024/10/13",
       title: "第26堂 SoR 第五階 Comprehension(高階理論)｜SoR 科普系列講座",
+      desc:"大部分學英文，就是吃炒飯只吃蔥花的人?",
       level:5,
       data: {
-        message:"付費解鎖"
+        url:"https://www.youtube.com/live/VA6lJukcglI?si=7zgekHx9nPZaXhqH"
       }
     }
   ]
@@ -287,7 +326,11 @@ function createLevelCard(weekData) {
           } else if(key == 'message') {
             content += `<span>${value}</li>`;
           }else if(key == 'other') {
-            content += `<li>補充教材：<a href="${value}" target="_blank">${value}</a></li>`;
+            console.log(value)
+            for (const [otherKey, otherValue] of Object.entries(value)) {
+              content += `<li>補充教材：<a href="${otherValue.url}" target="_blank">${otherValue.title}</a></li>`;
+            }
+            
           }
         }   
   content += `</div>`;
